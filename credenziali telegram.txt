@@ -1,0 +1,3 @@
+# credenziali telegram
+TELEGRAM_API_ID='37137648'
+TELEGRAM_API_HASH='c990d5746f01bf1ef41fd9d81ee47cdc'

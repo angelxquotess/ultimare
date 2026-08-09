@@ -1,0 +1,25 @@
+{
+  "identity": {
+    "language": {
+      "value": "Italian",
+      "updated": "2026-08-09"
+    }
+  },
+  "preferences": {
+    "favorite_food": {
+      "value": "pizza",
+      "updated": "2026-07-02"
+    }
+  },
+  "projects": {},
+  "relationships": {},
+  "wishes": {},
+  "notes": {},
+  "sessions": [
+    {
+      "date": "2026-08-09",
+      "summary": "L'utente ha dettato a Jarvis una breve lettera da scrivere, firmare e salvare su un blocco note sul desktop. Ha poi ripreso la riproduzione musicale su Spotify e si è informato sulle funzionalità del controllo remoto di Jarvis.",
+      "language": "Italian"
+    }
+  ]
+}
